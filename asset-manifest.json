@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-link-tree/static/css/main.d8bf4b37.chunk.css",
+    "main.js": "/my-link-tree/static/js/main.efd87df5.chunk.js",
+    "main.js.map": "/my-link-tree/static/js/main.efd87df5.chunk.js.map",
+    "runtime-main.js": "/my-link-tree/static/js/runtime-main.0a7b2f58.js",
+    "runtime-main.js.map": "/my-link-tree/static/js/runtime-main.0a7b2f58.js.map",
+    "static/js/2.f172defc.chunk.js": "/my-link-tree/static/js/2.f172defc.chunk.js",
+    "static/js/2.f172defc.chunk.js.map": "/my-link-tree/static/js/2.f172defc.chunk.js.map",
+    "index.html": "/my-link-tree/index.html",
+    "static/css/main.d8bf4b37.chunk.css.map": "/my-link-tree/static/css/main.d8bf4b37.chunk.css.map",
+    "static/js/2.f172defc.chunk.js.LICENSE.txt": "/my-link-tree/static/js/2.f172defc.chunk.js.LICENSE.txt",
+    "static/media/github.8962f6f4.png": "/my-link-tree/static/media/github.8962f6f4.png",
+    "static/media/instagram.a0b6eb5e.png": "/my-link-tree/static/media/instagram.a0b6eb5e.png",
+    "static/media/linkedin.3503ef05.jpg": "/my-link-tree/static/media/linkedin.3503ef05.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a7b2f58.js",
+    "static/js/2.f172defc.chunk.js",
+    "static/css/main.d8bf4b37.chunk.css",
+    "static/js/main.efd87df5.chunk.js"
+  ]
+}
