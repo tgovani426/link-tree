@@ -1,14 +1,13 @@
 {
   "name": "my-link-tree",
   "version": "0.1.0",
-  "homepage": "https://tgovani426.github.io/my-link-tree",
+  "homepage": "https://tgovani426.github.io/link-tree",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
     "framer-motion": "^4.1.17",
-    "gh-pages": "^4.0.0",
     "react": "^17.0.2",
     "react-dark-mode-toggle": "^0.2.0",
     "react-dom": "^17.0.2",
@@ -17,9 +16,9 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
+    "start": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -41,5 +40,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
