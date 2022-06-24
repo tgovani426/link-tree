@@ -16,5 +16,5 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 
-## To deploy the react app in github please reffer:
+## To deploy the react app in github-pages please reffer:
 [Here](https://youtu.be/Q9n2mLqXFpU)
